@@ -118,7 +118,7 @@ Raw Data → Data Understanding → Data Cleaning → SQL Analysis → Python Vi
 
 ```
 ├── Hospitality Project.ipynb     # Main analysis notebook (Python + SQL)
-├── Superstore Sales & Risk Analysis.pptx   # Report presentation
+├── AtliQ Grands — Revenue Performance & Market Share Analysis.pdf  # Report
 ├── DATA/
 │   ├── dim_hotels.csv
 │   ├── dim_rooms.csv
